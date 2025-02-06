@@ -1,6 +1,10 @@
 ## Projects I have Already Finished
-- **Maze Game** - A university project written in C++ for Windows. It’s a console game where you fight enemies in a maze and try to achieve the highest score possible.  
-  ![Maze Game](mazegame.png)
+
+### Maze Game
+A university project written in C++ for Windows. It’s a console game where you fight enemies in a maze and try to achieve the highest score possible.  
+| ![Maze Game](mazegame.png) |
+| ---------------------------|
+
 - **Space Eternity 3** - My flagship Unity project. In this game, you explore a procedurally generated world while managing your inventory, with the main goal being to fight and defeat bosses. The game also features an online multiplayer mode.  
   ![Space Eternity 3](se3.png)
 - **se3.page** - I created the [se3.page](https://se3.page/) website for Space Eternity 3 using Docosaurus. It includes a download page, instructions for running the game, and documentation for datapacks.  
