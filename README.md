@@ -1,9 +1,13 @@
-## Project I have already finished
-- **Rollball** - A simple Unity game, where you control a ball and complete levels.
-- **Space Eternity 3** - My flagship Unity project. In this game you explore the procedurally generated world, while maintaining your inventory with the main objective to fight and defeat bosses. The game contains online multiplayer mode.
-- **se3.page** - I have written the [se3.page](https://se3.page/) website for Space Eternity 3 in Docosaurus, which contains download page, necessary instructions for running the game and some sort of documentation for datapacks.
-- **Maze Game** - The university project written in C++ for Windows. It is a console game, where you fight enemies in the labirynth and try to push your score as high as possible.
+## Projects I've Already Finished
+- **Rollball** - A simple Unity game where you control a ball and complete levels.  
+  ![Rollball](link_do_obrazka_rollball)
+- **Space Eternity 3** - My flagship Unity project. In this game, you explore a procedurally generated world while managing your inventory, with the main goal being to fight and defeat bosses. The game also features an online multiplayer mode.  
+  ![Space Eternity 3](link_do_obrazka_se3)
+- **se3.page** - I created the [se3.page](https://se3.page/) website for Space Eternity 3 using Docosaurus. It includes a download page, instructions for running the game, and documentation for datapacks.  
+  ![se3.page](link_do_obrazka_se3page)
+- **Maze Game** - A university project written in C++ for Windows. It’s a console game where you fight enemies in a maze and try to achieve the highest score possible.  
+  ![Maze Game](link_do_obrazka_maze_game)
 
-## Future plans
-- Modifying the SE3 launcher in such way to allow uploading other games than Space Eternity 3.
+## Future Plans
+- Modify the SE3 launcher to allow uploading games other than Space Eternity 3.
 - More games!
