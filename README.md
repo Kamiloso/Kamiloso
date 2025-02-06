@@ -7,4 +7,3 @@
 ## Future plans
 - Modifying the SE3 launcher in such way to allow uploading other games than Space Eternity 3.
 - More games!
-- 
