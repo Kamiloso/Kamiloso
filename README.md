@@ -1,6 +1,6 @@
 # Projects I have Already Finished
 
-Every project listed here is open-source and available on my GitHub profile.
+> *Every project listed here is open-source and available on my GitHub profile.*
 
 ## Maze Game
 A university project written in C++ for Windows. It’s a console game where you fight enemies in a maze and try to achieve the highest score possible.  
@@ -13,7 +13,7 @@ My flagship Unity project. In this game, you explore a procedurally generated wo
 | ---------------------------- |
 
 ## SE3 website
-I created the [se3.page](https://se3.page/) website for Space Eternity 3 using Docosaurus. It includes a download page, instructions for running the game, and documentation for datapacks.  
+I have written a website for Space Eternity 3 with [Nadwey](https://github.com/Nadwey/) (the creator of the SE3 launcher) using Docosaurus. It includes a download page, instructions for running the game, and documentation for datapacks.  
 | ![se3.page](se3page.png) |
 | ------------------------ |
 
