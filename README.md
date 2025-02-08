@@ -1,5 +1,7 @@
 # Projects I have Already Finished
 
+Every project listed here is open-source and available on my GitHub profile.
+
 ## Maze Game
 A university project written in C++ for Windows. It’s a console game where you fight enemies in a maze and try to achieve the highest score possible.  
 | ![Maze Game](mazegame.png) |
