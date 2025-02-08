@@ -11,7 +11,7 @@ My flagship Unity project. In this game, you explore a procedurally generated wo
 | ---------------------------- |
 
 ## SE3 website
-I created the [se3.page](https://se3.page/) website for Space Eternity 3 using Docosaurus. It includes a download page, instructions for running the game, and documentation for datapacks.  
+I created the [se3.page](https://se3.page/) website for Space Eternity 3 using Docusaurus. It includes a download page, instructions for running the game, and documentation for datapacks.  
 | ![se3.page](se3page.png) |
 | ------------------------ |
 
