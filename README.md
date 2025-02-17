@@ -8,7 +8,8 @@ A university project written in C++ for Windows. It’s a console game where you
 | ---------------------------|
 
 ## Space Eternity 3
-My flagship Unity project. In this game, you explore a procedurally generated world while managing your inventory, with the main goal being to fight and defeat bosses. The game also features an online multiplayer mode.  
+My flagship Unity project. In this game, you explore a procedurally generated world while managing your inventory, with the main goal being to fight and defeat bosses.
+The game also features an online multiplayer mode. [Check repository](https://github.com/Space-Eternity-3/Space-Eternity-3).  
 | ![Space Eternity 3](se3.png) |
 | ---------------------------- |
 
