@@ -13,7 +13,7 @@ The game also features an online multiplayer mode. [Check repository](https://gi
 | ![Space Eternity 3](se3.png) |
 | ---------------------------- |
 
-## SE3 website
+## SE3 Website
 I have written a website for Space Eternity 3 with [Nadwey](https://github.com/Nadwey/) (the creator of the SE3 Launcher) using Docusaurus. It includes a download page, instructions for running the game, and documentation for datapacks. See it [here](https://se3.page).  
 | ![se3.page](se3page.png) |
 | ------------------------ |
