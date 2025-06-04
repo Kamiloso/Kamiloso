@@ -4,7 +4,7 @@
 
 ## Brick Breaker
 A university project written in C++ using SFML with [Peccator](https://github.com/michalkosiec/) and [Julian](https://github.com/JulianGranieczny/). It is the Arkanoid-like game, where you need to clear levels
-with a ball and the paddle.
+with a ball and the paddle. [Check repository](https://github.com/Kamiloso/BrickBreaker).  
 | ![Brick Breaker](brickbreaker1.png) |
 | ------------------------------- |
 
@@ -19,13 +19,11 @@ The game also features an online multiplayer mode. [Check repository](https://gi
 | ![Space Eternity 3](se3.png) |
 | ---------------------------- |
 
-## SE3 Website
-I have written a website for Space Eternity 3 with [Nadwey](https://github.com/Nadwey/) (the creator of the SE3 Launcher) using Docusaurus. It includes a download page, instructions for running the game, and documentation for datapacks. See it [here](https://se3.page).  
-| ![se3.page](se3page.png) |
-| ------------------------ |
+I have written a website for Space Eternity 3 with [Nadwey](https://github.com/Nadwey/) (the creator of the SE3 Launcher) using Docusaurus. It includes a download page, instructions for running the game, and documentation for datapacks.
+[Check repository](https://github.com/Space-Eternity-3/SE3-Website) or see the website [here](https://se3.page).  
 
 ## Rollball
-A simple Unity game where you control a ball and complete levels.  
+A simple Unity game where you control a ball and complete levels. It's one of my oldest projects. [Check repository](https://github.com/Kamiloso/Rollball).  
 | ![Rollball](rollball.png) |
 | ------------------------- |
 
