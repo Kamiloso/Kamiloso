@@ -2,6 +2,12 @@
 
 > *Every project listed here is open-source and available on my GitHub profile.*
 
+## Brick Breaker
+A university project written in C++ using SFML with [Peccator](https://github.com/michalkosiec/) and [Julian](https://github.com/JulianGranieczny/). It is the Arkanoid-like game, where you need to clear levels
+with a ball and the paddle.
+| ![Brick Breaker](brickbreaker1.png) |
+| ------------------------------- |
+
 ## Maze Game
 A university project written in C++ for Windows. It’s a console game where you fight enemies in a maze and try to achieve the highest score possible. [Check repository](https://github.com/Kamiloso/Maze-Game).  
 | ![Maze Game](mazegame.png) |
@@ -24,5 +30,5 @@ A simple Unity game where you control a ball and complete levels.
 | ------------------------- |
 
 # Future Plans
-- Modify the SE3 launcher to allow uploading games other than Space Eternity 3.
+- The Galactic Launcher project... 🔭
 - More games!
