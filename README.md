@@ -12,7 +12,7 @@ I'm especially interested in multiplayer and networking process. I also find low
 - 🔹 Unity
 - 🔹 C++
 - 🔹 Java
-- 🔹 JavaScript
+- 🔹 JavaScript / node.js
 - 🔹 Docusaurus *(it's based on React)*
 
 And I'm eager to learn more :)
