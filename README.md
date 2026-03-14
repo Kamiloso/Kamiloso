@@ -5,7 +5,7 @@
 
 # 👨‍💻 About me
 I'm a passionate programmer and game developer. I like making systems **from scratch** and understanding how things work internally.
-I'm especially interested in multiplayer and networking process. I also find low-level coding very interesting.
+I'm especially interested in multiplayer and networking processes. I also find low-level coding very interesting.
 
 ## 🛠️ Technologies
 - 🔹 C# / .NET
