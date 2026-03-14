@@ -13,7 +13,7 @@ I'm especially interested in multiplayer and networking process. I also find low
 - 🔹 C++
 - 🔹 Java
 - 🔹 JavaScript
-- 🔹 Docusaurus *(based on React)*
+- 🔹 Docusaurus *(it's based on React)*
 
 And I'm eager to learn more :)
 
