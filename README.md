@@ -13,8 +13,8 @@ I'm especially interested in multiplayer and networking processes. I also find l
 - 🔹 C++
 - 🔹 Java
 - 🔹 JavaScript / node.js
-- 🔹 Docusaurus *(it's based on React)*
 
+Currently learning Rust 🦀
 And I'm eager to learn more :)
 
 ## 🏆 What I'm especially proud of
