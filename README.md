@@ -14,7 +14,7 @@ I'm especially interested in multiplayer and networking processes. I also find l
 - 🔹 Java
 - 🔹 JavaScript / node.js
 
-Currently learning Rust 🦀
+Currently learning Rust 🦀  
 And I'm eager to learn more :)
 
 ## 🏆 What I'm especially proud of
