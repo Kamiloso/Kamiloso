@@ -12,13 +12,10 @@ I'm especially interested in multiplayer and networking processes. I also find l
 - 🔹 Unity
 - 🔹 Rust
 - 🔹 C++
-- 🔹 Java
+- 🔹 Java / Spring Boot
 - 🔹 SQL
 - 🔹 Docker
 - 🔹 JavaScript / node.js
-
-Currently learning Spring Boot ☕️...
-And I'm eager to learn more!
 
 ## 🏆 What I'm especially proud of
 - Space Eternity 3 - [The official website](https://se3.page)
